@@ -48,15 +48,15 @@ The VM manager specifically listens for WebAssembly OOM (Out of Memory) errors. 
    Open `text.html` in your browser.
    *(Note: `index.html` is the landing page, `text.html` is the app entry point).*
 
-2. **Create a Machine**:
-   - Click **Create New Machine**.
-   - Upload a bootable ISO (e.g., a lightweight Linux distro like Alpine or TinyCore).
-   - Set RAM (Recommended: 128MB for browser stability).
-   - Click **Create**.
+2. **Create a virtual machine**:
+   - Click **Create new vitual machine**.
+   - Upload a bootable ISO (e.g., a lightweight Linux distro like Alpine or TinyCore or Damn Small Linux).
+   - Set RAM (Recommended: 512GB for browser stability).
+   - Click **Create virtual machine**.
 
 3. **Start Emulation**:
-   - Click the **Play** button on the machine card.
-   - A new popup window will open with the VM.
+   - Click the **Power** button on the machine card.
+   - A new popup window will open with the virtual machine.
    - **Tip**: If on mobile, use the floating button to toggle the keyboard.
 
 ## ⚠️ Browser Requirements
