@@ -1,3 +1,4 @@
+import { injectSpeedInsights } from '@vercel/speed-insights';
 
-
-// AI Studio always uses an `index.tsx` file for all project types.
+// Initialize Vercel Speed Insights
+injectSpeedInsights();
